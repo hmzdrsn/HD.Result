@@ -3,7 +3,8 @@
 ```csharp
 -English
 
-This project provides a generic Result<T> class designed to encapsulate the outcome of an operation. It includes data, messages, and status indicators to represent success or failure.
+This project provides a generic Result<T> class designed to encapsulate the outcome of an operation.
+It includes data, messages, and status indicators to represent success or failure.
 
 Key Methods:
 Succeed(): Returns a successful result with optional data, messages, and status.
@@ -16,7 +17,8 @@ Result<T>.Failure() - For failed operations.
 
 - Türkçe
 
-Bu proje, bir işlemin sonucunu kapsüllemek için tasarlanmış genel Result<T> sınıfını sağlar. Sınıf, başarılı veya başarısız durumu temsil etmek için veri, mesajlar ve durum göstergeleri içerir.
+Bu proje, bir işlemin sonucunu kapsüllemek için tasarlanmış genel Result<T> sınıfını sağlar.
+Sınıf, başarılı veya başarısız durumu temsil etmek için veri, mesajlar ve durum göstergeleri içerir.
 
 Anahtar Metotlar:
 Succeed(): Başarılı bir sonucu, isteğe bağlı veri, mesajlar ve durum ile döndürür.
