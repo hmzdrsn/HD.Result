@@ -8,6 +8,26 @@
     <Title>Generic Result Model</Title>
     <Authors>Hamza Dursun</Authors>
     <Description>This package contains the generic response model.</Description>
+    <PackageProjectUrl></PackageProjectUrl>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <RepositoryUrl>https://github.com/hmzdrsn/HD.Result</RepositoryUrl>
+    <Version>1.0.0</Version>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>response, result</PackageTags>
+    <PackageReleaseNotes>Initial.</PackageReleaseNotes>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Update="LICENSE.txt">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Update="README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>
