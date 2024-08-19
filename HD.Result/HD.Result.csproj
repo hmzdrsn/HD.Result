@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>HD.Result</PackageId>
+    <Title>Generic Result Model</Title>
+    <Authors>Hamza Dursun</Authors>
+    <Description>This package contains the generic response model.</Description>
+  </PropertyGroup>
+
+</Project>
