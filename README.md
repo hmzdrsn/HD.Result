@@ -1,4 +1,4 @@
-# My Upper Case NuGet Package
+# HD.Result NuGet Package
 
 ```csharp
 -English
